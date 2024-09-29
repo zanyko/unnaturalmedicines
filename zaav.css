@@ -7,6 +7,11 @@
   border-radius: 20px;
   background: rgba(0,0,0,0.3);
 }
+#Label1 {
+  border: 1px solid #7BAAF7 !important;
+  border-radius: 20px;
+  background: rgba(0,0,0,0.3);
+}
 #BlogArchive1 {
   border: 1px solid #7BAAF7 !important;
   border-radius: 20px;
@@ -46,13 +51,6 @@ border-radius: 5px !important;
 }
 .status-msg-hidden {
   background: rgba(0,0,0,0) !important;
-  border: 1px solid #7BAAF7 !important;
-  border-radius: 10px !important;
-}
-.status-msg-wrap {
-  display: flex;
-  justify-content: start;
-  align-items: center;
 }
 
 /*___________________________________*/
