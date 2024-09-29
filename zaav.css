@@ -15,6 +15,12 @@
   border-radius: 20px;
   background: rgba(0,0,0,0.3);
 }
+input {
+font-family: "Courier";
+color: white;
+background: rgba(0,0,0,0.3);
+border-radius: 5px;
+}
 .post-outer {
   background: rgba(0,0,0,0.3) !important; 
   border: 1px solid #7BAAF7 !important;
