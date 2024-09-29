@@ -27,9 +27,15 @@ color: white !important;
 background: rgba(0,0,0,0.3) !important;
 border-radius: 5px !important;
 }
-.status-msg-body {
+.status-msg-bg {
   background: rgba(0,0,0,0.3) !important;
+  border: 1px solid #7BAAF7 !important;
   border-radius: 10px !important;
+}
+.status-msg-wrap {
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 .post-outer {
   background: rgba(0,0,0,0.3) !important; 
