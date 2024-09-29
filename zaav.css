@@ -1,3 +1,6 @@
+/*___________________________________*/
+/*___________________________________*/
+/*post*/
 
 #BlogSearch1 {
   border: 1px solid #7BAAF7 !important;
@@ -9,12 +12,16 @@
   border-radius: 20px;
   background: rgba(0,0,0,0.3);
 }
-
 #FeaturedPost1 {
   border: 1px solid #7BAAF7 !important;
   border-radius: 20px;
   background: rgba(0,0,0,0.3);
 }
+
+/*___________________________________*/
+/*___________________________________*/
+/*post*/
+
 .gsc-input {
 font-family: "Courier" !important;
 color: white !important;
@@ -27,16 +34,29 @@ color: white !important;
 background: rgba(0,0,0,0.3) !important;
 border-radius: 5px !important;
 }
+
+/*___________________________________*/
+/*___________________________________*/
+/*post*/
+
 .status-msg-bg {
   background: rgba(0,0,0,0.3) !important;
   border: 1px solid #7BAAF7 !important;
   border-radius: 10px !important;
 }
+.status-msg-hidden {
+  background: rgba(0,0,0,0) !important;
+}
 .status-msg-wrap {
   display: flex;
-  justify-content: center;
+  justify-content: start;
   align-items: center;
 }
+
+/*___________________________________*/
+/*___________________________________*/
+/*post*/
+
 .post-outer {
   background: rgba(0,0,0,0.3) !important; 
   border: 1px solid #7BAAF7 !important;
@@ -44,6 +64,7 @@ border-radius: 5px !important;
   margin-top: 1rem !important;
   margin-bottom: 2rem !important;
 }
+
 #canvas {
   position: fixed !important;
   margin-bottom: 0 !important;
