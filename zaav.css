@@ -15,7 +15,13 @@
   border-radius: 20px;
   background: rgba(0,0,0,0.3);
 }
-input {
+.gsc-input {
+font-family: "Courier" !important;
+color: white !important;
+background: rgba(0,0,0,0.3) !important;
+border-radius: 5px !important;
+}
+.gsc-search-button {
 font-family: "Courier" !important;
 color: white !important;
 background: rgba(0,0,0,0.3) !important;
