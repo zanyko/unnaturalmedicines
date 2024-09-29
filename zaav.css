@@ -1,5 +1,5 @@
 body {
-  background-color: black;
+  background-color: black !important;
 }
 #BlogSearch1 {
   border: 1px solid #7BAAF7 !important;
