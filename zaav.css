@@ -16,10 +16,10 @@
   background: rgba(0,0,0,0.3);
 }
 input {
-font-family: "Courier";
-color: white;
-background: rgba(0,0,0,0.3);
-border-radius: 5px;
+font-family: "Courier" !important;
+color: white !important;
+background: rgba(0,0,0,0.3) !important;
+border-radius: 5px !important;
 }
 .post-outer {
   background: rgba(0,0,0,0.3) !important; 
