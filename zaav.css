@@ -1,0 +1,23 @@
+body {
+  background-color: red !important;
+}
+#BlogSearch1 {
+border: 1px solid #7BAAF7 !important; border-radius: 20px;
+background: rgba(0,0,0,0.3);
+}
+#BlogArchive1 {
+border: 1px solid #7BAAF7 !important; border-radius: 20px;
+background: rgba(0,0,0,0.3);
+}
+
+#FeaturedPost1 {
+border: 1px solid #7BAAF7 !important; border-radius: 20px;
+background: rgba(0,0,0,0.3);
+}
+.post-outer {
+background: rgba(0,0,0,0.3); 
+border: 1px solid #7BAAF7 !important;
+border-radius: 20px; 
+margin-top: 1rem;
+margin-bottom: 2rem;
+}
