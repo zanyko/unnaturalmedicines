@@ -28,15 +28,18 @@ background: rgba(0,0,0,0.3) !important;
 border-radius: 5px !important;
 }
 .status-msg-body {
-  background: rgba(0,0,0,0.3) !important; 
-  border: 1px solid #7BAAF7 !important;
+  background: rgba(0,0,0,0.3) !important;
   border-radius: 10px !important;
 }
 .status-msg-bg {
   background: rgba(0,0,0,0) !important;
+  border: 1px solid green !important;
+  border-radius: 10px !important;
 }
 .status-msg-hidden {
   background: rgba(0,0,0,0) !important;
+  border: 1px solid red !important;
+  border-radius: 10px !important;
 }
 .post-outer {
   background: rgba(0,0,0,0.3) !important; 
