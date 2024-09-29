@@ -1,5 +1,5 @@
 body {
-  background-color: red !important;
+  background-color: dark;
 }
 #BlogSearch1 {
   border: 1px solid #7BAAF7 !important;
@@ -20,7 +20,7 @@ body {
 .post-outer {
   background: rgba(0,0,0,0.3) !important; 
   border: 1px solid #7BAAF7 !important;
-  border-radius: 20px; 
-  margin-top: 1rem;
-  margin-bottom: 2rem;
+  border-radius: 20px !important; 
+  margin-top: 1rem !important;
+  margin-bottom: 2rem !important;
 }
