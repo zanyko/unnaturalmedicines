@@ -22,6 +22,9 @@
   margin-top: 1rem !important;
   margin-bottom: 2rem !important;
 }
+#canvas {
+  position: fixed !important;
+}
 body {
-  background: black !important;
+  background: rgba(0,0,0,0.5) !important;
 }
