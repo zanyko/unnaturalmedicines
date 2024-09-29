@@ -1,6 +1,6 @@
 /*___________________________________*/
 /*___________________________________*/
-/*post*/
+/* widget */
 
 #BlogSearch1 {
   border: 1px solid #7BAAF7 !important;
@@ -20,7 +20,7 @@
 
 /*___________________________________*/
 /*___________________________________*/
-/*post*/
+/* inputs */
 
 .gsc-input {
 font-family: "Courier" !important;
@@ -37,7 +37,7 @@ border-radius: 5px !important;
 
 /*___________________________________*/
 /*___________________________________*/
-/*post*/
+/* search message */
 
 .status-msg-bg {
   background: rgba(0,0,0,0.3) !important;
@@ -46,6 +46,8 @@ border-radius: 5px !important;
 }
 .status-msg-hidden {
   background: rgba(0,0,0,0) !important;
+  border: 1px solid #7BAAF7 !important;
+  border-radius: 10px !important;
 }
 .status-msg-wrap {
   display: flex;
@@ -55,7 +57,7 @@ border-radius: 5px !important;
 
 /*___________________________________*/
 /*___________________________________*/
-/*post*/
+/* post */
 
 .post-outer {
   background: rgba(0,0,0,0.3) !important; 
