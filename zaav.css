@@ -12,6 +12,11 @@
   border-radius: 20px;
   background: rgba(0,0,0,0.3);
 }
+#Label2 {
+  border: 1px solid #7BAAF7 !important;
+  border-radius: 20px;
+  background: rgba(0,0,0,0.3);
+}
 #BlogArchive1 {
   border: 1px solid #7BAAF7 !important;
   border-radius: 20px;
