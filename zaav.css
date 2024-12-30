@@ -17,10 +17,8 @@
   border-radius: 20px;
   background: rgba(0,0,0,0.3);
 }
-li {
-  a {
-    margin-left: 5px;
-  }
+li a {
+    margin-left: 9px;
 }
 #BlogArchive1 {
   border: 1px solid #7BAAF7 !important;
