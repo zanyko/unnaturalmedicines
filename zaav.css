@@ -78,6 +78,13 @@ padding: 0.6rem;
   position: fixed !important;
   margin-bottom: 0 !important;
 }
+
+/*___________________________________*/
+/*___________________________________*/
+/* general */
 body {
   background: black !important;
+}
+a:hover{
+  color: aquamarine !important;
 }
